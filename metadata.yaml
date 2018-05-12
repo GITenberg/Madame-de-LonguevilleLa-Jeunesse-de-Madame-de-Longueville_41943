@@ -1,0 +1,30 @@
+_repo: Madame-de-LonguevilleLa-Jeunesse-de-Madame-de-Longueville_41943
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41943-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cousin, Victor
+    alias: Cousin, Vittorio
+    birthdate: 1792
+    deathdate: 1867
+    gutenberg_agent_id: '38137'
+    url: http://www.gutenberg.org/2009/agents/38137
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41943'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+- !lcsh 'Longueville, Anne Geneviève de Bourbon-Condé, duchesse de, 1619-1679'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+title: 'Madame de Longueville: La Jeunesse de Madame de Longueville'
+url: http://www.gutenberg.org/ebooks/41943
